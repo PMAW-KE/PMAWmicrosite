@@ -1,1 +1,0 @@
-(()=>{"use strict";const e=document.getElementById("mobile-menu-btn"),t=document.getElementById("nav-menu");e.addEventListener("click",()=>{e.classList.toggle("active"),t.classList.toggle("active"),t.classList.contains("active")?document.body.style.overflow="hidden":document.body.style.overflow="auto"})})();
