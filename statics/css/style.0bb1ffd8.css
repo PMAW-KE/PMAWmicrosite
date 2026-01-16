@@ -323,6 +323,9 @@ nav a:hover {
   justify-content: center;
   width: 100%;
 }
+.etc {
+  transform: scale(0.5);
+}
 .logo-item img {
   max-width: 120px;
   width: 100%;
