@@ -151,7 +151,7 @@ nav a:hover {
 .btn-register {
   display: inline-block;
   background-color: #0065b3;
-  color: white;
+  color: white !important;
   padding: 15px 35px;
   border-radius: 4px;
   text-decoration: none;
@@ -297,6 +297,9 @@ nav a:hover {
 .session-item p {
   font-size: 13px;
   color: #888;
+}
+.session-contents a {
+  color: #005090;
 }
 
 /* ================= LOGO ITEM ================= */
